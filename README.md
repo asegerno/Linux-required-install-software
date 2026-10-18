@@ -23,6 +23,15 @@ sudo apt-get install -f
 
 ---
 
-## ⚖️ 許可證說明 (License)
+## ⚖️ 專有軟體授權與許可證說明 (Proprietary Software Licensing & EULA)
 
-本專案採用 **[The Unlicense](https://unlicense.org/)** 授權協議，釋入公有領域（Public Domain）。
+### 1. 卡巴斯基專有商業授權 (Kaspersky Proprietary EULA)
+* **Kaspersky Endpoint Security for Linux (KESL)** 為 **AO Kaspersky Lab** 之商業專有企業產品 (Proprietary Commercial Software)。
+* 軟體之安裝、運行與維護完全受 [Kaspersky B2B 終端使用者授權協議 (EULA)](https://www.kaspersky.com/end-user-license-agreement) 規範。
+
+### 2. 授權啟用與使用規範 (Usage & Licensing)
+* **非公有領域**：KESL 安裝套件與驅動組件非公有領域、非開源軟體。
+* **合法授權需求**：部署此企業防護端點必須配備有效之商業許可證金鑰。使用者須確保已自卡巴斯基官方取得合法授權。
+
+### 3. 本倉庫文檔授權 (Documentation License)
+本倉庫之 Bash 腳本範例與文檔說明採用 **[The Unlicense](https://unlicense.org/)** 釋入公有領域（Public Domain）。
